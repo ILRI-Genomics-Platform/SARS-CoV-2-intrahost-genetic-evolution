@@ -1,0 +1,3 @@
+[submodule "ARTIC_ViReMa"]
+	path = ARTIC_ViReMa
+	url = https://github.com/andrewrouth/ARTIC_ViReMa.git
